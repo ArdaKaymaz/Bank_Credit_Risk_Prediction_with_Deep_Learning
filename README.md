@@ -20,16 +20,15 @@ Model Evaluation:
 
 The trained artificial neural network model was evaluated on the test dataset. The obtained results are as follows:
 
-<div>
-	<u>Test Accuracy</u>: <strong>45.7%</strong></div>
-<div>
-	<u>Test Precision</u>: <strong>45.6%</strong></div>
-<div>
-	<u>Test Recall</u>: <strong>99.5%</strong></div>
-<div>
-	<u>Test F1</u>: <strong>0.625%</strong></div>
+<u>Test Accuracy</u>: <strong>45.7%</strong>
 
+<u>Test Precision</u>: <strong>45.6%</strong>
 
+<u>Test Recall</u>: <strong>99.5%</strong>
+
+<u>Test F1</u>: <strong>0.625%</strong>
+
+ 
 Results and Discussion:
 
 According to the obtained results, it can be seen that the model's recall value is quite high, but accuracy, precision, and loss values are low. This indicates that the model is quite successful in identifying negative situations in credit risk prediction but weak in identifying positive situations.
