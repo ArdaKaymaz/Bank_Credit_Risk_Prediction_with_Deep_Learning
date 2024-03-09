@@ -27,7 +27,6 @@ The trained artificial neural network model was evaluated on the test dataset. T
 <u>Test Recall</u>: <strong>99.5%</strong>
 
 <u>Test F1</u>: <strong>0.625%</strong>
-
  
 Results and Discussion:
 
