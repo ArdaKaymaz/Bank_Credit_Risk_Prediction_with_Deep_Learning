@@ -3,6 +3,7 @@
 
 ![Adsız](https://github.com/ArdaKaymaz/Bank_Credit_Risk_Prediction_with_Deep_Learning/assets/146623362/3856e6dc-c3a3-44b4-95fc-3bf92fa8902d)
 
+<br>This project was conducted by <strong>Melis Karcı</strong> (<a href="url">[GitHub](https://github.com/melisk12)</a>) and <strong>Arda Kaymaz</strong>.
  
 <br>Project Report: Evaluation of Artificial Neural Network for Credit Risk Prediction
 
